@@ -1,0 +1,6 @@
+@customer_activity_analyzer_HostAddress = http://localhost:5042
+
+GET {{customer_activity_analyzer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
